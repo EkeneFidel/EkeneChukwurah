@@ -16,5 +16,5 @@ I'm a Backend Engineer with 2+ years experience working with Python, Javascript,
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekenefidel&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Ekene's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekenefidel&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Ekene's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats-ekenefidel.vercel.app/api?username=ekenefidel&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Ekene's GitHub stats" /> | <img align="center" src="https://github-readme-stats-ekenefidel.vercel.app/api/top-langs/?username=ekenefidel&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Ekene's GitHub stats" /> |
 | ------------- | ------------- |
